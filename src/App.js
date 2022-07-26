@@ -1,11 +1,18 @@
 import './App.css';
+import Contact from './Contact';
+import Experience from './Experience';
+import Home from './Home';
+import Involvement from './Involvement';
 import Navbar from './Navbar'
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <h2>Portfolio of Mallow yay</h2>
+      <Home />
+      <Experience />
+      <Involvement />
+      <Contact />
     </div>
   );
 }
