@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.6d0f064d.js",
-    "static/js/787.135fe0c1.chunk.js": "/portfolio/static/js/787.135fe0c1.chunk.js",
+    "main.css": "/portfolio/static/css/main.338ca089.css",
+    "main.js": "/portfolio/static/js/main.0425ec34.js",
+    "static/media/slc.png": "/portfolio/static/media/slc.b04db94bfb686c90bf76.png",
+    "static/media/guidon.png": "/portfolio/static/media/guidon.083b069d150bbff1afa2.png",
+    "static/media/uxsoc.png": "/portfolio/static/media/uxsoc.41e029c247a12125ad16.png",
+    "static/media/Accenture.png": "/portfolio/static/media/Accenture.00f0b13b0afbaa676ecf.png",
+    "static/media/Exora.png": "/portfolio/static/media/Exora.3b774c7f8c1ef23bce91.png",
+    "static/media/tindajuan.png": "/portfolio/static/media/tindajuan.9ceeabcbe547a010dc06.png",
+    "static/media/sanggu.png": "/portfolio/static/media/sanggu.edc0d0bc6e60701c58b5.png",
+    "static/media/gabay.png": "/portfolio/static/media/gabay.8f6735865a3bb1d0655c.png",
+    "static/media/linkedinsmall.svg": "/portfolio/static/media/linkedinsmall.e7af887cc52e20165c209c3f97ab8a7e.svg",
     "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.6d0f064d.js.map": "/portfolio/static/js/main.6d0f064d.js.map",
-    "787.135fe0c1.chunk.js.map": "/portfolio/static/js/787.135fe0c1.chunk.js.map"
+    "main.338ca089.css.map": "/portfolio/static/css/main.338ca089.css.map",
+    "main.0425ec34.js.map": "/portfolio/static/js/main.0425ec34.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6d0f064d.js"
+    "static/css/main.338ca089.css",
+    "static/js/main.0425ec34.js"
   ]
 }
